@@ -9,7 +9,7 @@
 </p>
 
 <!-- 
-  技术栈标签, 小标签来自: [https://shields.io/](https://marwin1991.github.io/profile-technology-icons/)
+  技术栈标签, 小标签来自: https://marwin1991.github.io/profile-technology-icons/
 -->
 
 <div align="center">
