@@ -1,9 +1,9 @@
 <!-- 标题 + 个人描述, emoji 取自: http://emojihomepage.com -->
 <p align="center">
   <h1 height="200px" align="center">
-    God dag <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm MoYuanJun
+    God dag <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm wandun
   </h1>
-   <p align="center">A Sometimes passion ✨ and sometimes idle 🥋 backend developer from China 👨‍💻</p>
+   <p align="center">A versatile backend developer 👨‍💻 from China, with moments of intense passion ✨ for coding and other times embracing a relaxed, reflective state 🥋.</p>
 </p>
 
 <!-- 
