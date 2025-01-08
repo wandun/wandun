@@ -3,10 +3,9 @@
 -->
 <p align="center">
   <h1 height="200px" align="center">
-   <!--  Hi <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm wandun -->
 
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={Never have bugs}&fontSize=90&fontAlign=50&fontAlignY=30&desc={Hi,I'm wandun}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hi,I'm wandun&fontSize=90&fontAlign=50&fontAlignY=30&desc=Never have bugs&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
    
   </h1>
