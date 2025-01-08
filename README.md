@@ -41,11 +41,6 @@
 	</table>
 </div>
 
-<!-- 背景图 -->
-<br />
-<br />
-<img align="right" src="./assets/7.jpg" width="400"/>
-
 <!-- 关于我 -->
 <h2 height="200px" align="center">🎉 About Me</h2>
 <br />
@@ -57,4 +52,6 @@
 - ⛺️ I have a private site: [guokangjie.cn](http://www.guokangjie.cn/), you're welcome to come! ~
 - 📨 My email address is `gxmtolsj@foxmail.com` Welcome to contact me 👏🏻 ~
 
-
+<br />
+<br />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username={wandun}&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
