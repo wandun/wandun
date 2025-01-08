@@ -44,17 +44,17 @@
 <!-- 背景图 -->
 <br />
 <br />
-<img align="right" alt="GIF" src="./assets/7.jpg" width="400"/>
+<img align="right" src="./assets/7.jpg" width="400"/>
 
 <!-- 关于我 -->
 <h2 height="200px" align="center">🎉 About Me</h2>
 <br />
 
-- 🔭 I’m currently working on [DXY](http://www.jt-ele.com/)~
+- 🔭 I’m currently working on [JT](http://www.jt-ele.com/)~
 - 🏋 I'm passionate about fitness, and it pays off ~
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
-- 👻 I love to share, and currently share technical articles at [juejin](https://juejin.cn/user/4459274891717223)
-- ⛺️ I have a private site: [kunlunxu](https://kunlunxu.cc), you're welcome to come! ~
-- 📨 My email address is `moyuanjun@kunlunxu.cc` Welcome to contact me 👏🏻 ~
+- 👻 I love to share, and currently share technical articles at [CSDN](https://blog.csdn.net/qq_38263083?type=blog)
+- ⛺️ I have a private site: [guokangjie.cn](http://www.guokangjie.cn/), you're welcome to come! ~
+- 📨 My email address is `gxmtolsj@foxmail.com` Welcome to contact me 👏🏻 ~
 
 
