@@ -3,7 +3,12 @@
 -->
 <p align="center">
   <h1 height="200px" align="center">
-    Hi <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm wandun
+   <!--  Hi <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm wandun -->
+
+<p align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={Never have bugs}&fontSize=90&fontAlign=50&fontAlignY=30&desc={Hi,I'm wandun}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
+   
   </h1>
    <p align="center">A versatile backend developer 👨‍💻 from China, with moments of intense passion ✨ for coding and other times embracing a relaxed, reflective state 🥋.</p>
 </p>
@@ -46,7 +51,7 @@
 <h2 height="200px" align="center">🎉 About Me</h2>
 <br />
 
-- 🔭 I’m currently working on [DXY](https://jt.cn/)~
+- 🔭 I’m currently working on [DXY](http://www.jt-ele.com/)~
 - 🏋 I'm passionate about fitness, and it pays off ~
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
 - 👻 I love to share, and currently share technical articles at [juejin](https://juejin.cn/user/4459274891717223)
