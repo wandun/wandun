@@ -45,19 +45,27 @@
 <h2 height="200px" align="center">🎉 About Me</h2>
 <br />
 
+
+<div> 
+<div css="flex: 1 1 50%;">
 - 🔭 I’m currently working on [JT](http://www.jt-ele.com/)~
 - 🏋 I'm passionate about fitness, and it pays off ~
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
 - 👻 I love to share, and currently share technical articles at [CSDN](https://blog.csdn.net/qq_38263083?type=blog)
 - ⛺️ I have a private site: [guokangjie.cn](http://www.guokangjie.cn/), you're welcome to come! ~
-- 📨 My email address is `gxmtolsj@foxmail.com` Welcome to contact me 👏🏻 ~
+- 📨 My email address is `gxmtolsj@foxmail.com` Welcome to contact me 👏🏻 ~     
+</div>
 
-<br />
-<br />
-
+<div css="flex: 1 1 50%;">
 <p align="center">
    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=wandun&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
-</p>
+</p>   
+</div>
+
+</div>
+
+<br />
+
 
 
 <p align="center">
