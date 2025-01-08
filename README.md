@@ -45,16 +45,12 @@
 <h2 height="200px" align="center">🎉 About Me</h2>
 <br />
 
-
-<p>
 - 🔭 I’m currently working on [JT](http://www.jt-ele.com/)~
 - 🏋 I'm passionate about fitness, and it pays off ~
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
 - 👻 I love to share, and currently share technical articles at [CSDN](https://blog.csdn.net/qq_38263083?type=blog)
 - ⛺️ I have a private site: [guokangjie.cn](http://www.guokangjie.cn/), you're welcome to come! ~
 - 📨 My email address is `gxmtolsj@foxmail.com` Welcome to contact me 👏🏻 ~     
-</p>
-
 
 
 <p align="center">
