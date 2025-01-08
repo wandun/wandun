@@ -2,15 +2,10 @@
     使用参考   https://juejin.cn/post/7220439797566947389
 -->
 <p align="center">
-  <h1 height="200px" align="center">
-
-<p align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hi,I'm wandun&fontSize=90&fontAlign=50&fontAlignY=30&desc=Never have bugs&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
-   
-  </h1>
-   <p align="center">A versatile backend developer 👨‍💻 from China, with moments of intense passion ✨ for coding and other times embracing a relaxed, reflective state 🥋.</p>
-</p>
+<p align="center">A versatile backend developer 👨‍💻 from China, with moments of intense passion ✨ for coding and other times embracing a relaxed, reflective state 🥋.</p>
+
 
 <!-- 
   技术栈标签, 小标签来自: https://marwin1991.github.io/profile-technology-icons/
