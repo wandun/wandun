@@ -46,8 +46,7 @@
 <br />
 
 
-<div> 
-<div css="flex: 1 1 50%;">
+<div>
 - 🔭 I’m currently working on [JT](http://www.jt-ele.com/)~
 - 🏋 I'm passionate about fitness, and it pays off ~
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
@@ -56,13 +55,12 @@
 - 📨 My email address is `gxmtolsj@foxmail.com` Welcome to contact me 👏🏻 ~     
 </div>
 
-<div css="flex: 1 1 50%;">
+
+
 <p align="center">
    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=wandun&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
-</p>   
-</div>
+</p> 
 
-</div>
 
 <br />
 
