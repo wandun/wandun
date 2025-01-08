@@ -44,7 +44,7 @@
 <!-- 背景图 -->
 <br />
 <br />
-<img align="right" alt="GIF" src="./assets/7.png" width="400"/>
+<img align="right" alt="GIF" src="./assets/7.jpg" width="400"/>
 
 <!-- 关于我 -->
 <h2 height="200px" align="center">🎉 About Me</h2>
